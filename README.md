@@ -1,2 +1,2 @@
 # Mau-buat-cabang-branch
-*ubah dikit gak ngaruh
+* ubah dikit gak ngaruh
