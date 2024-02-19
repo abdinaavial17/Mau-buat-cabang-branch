@@ -1,2 +1,2 @@
 # Mau-buat-cabang-branch
-- terserah
+* wong saya suka kok
